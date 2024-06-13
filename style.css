@@ -1,0 +1,18 @@
+h3{
+color: rgb(118, 35, 187);    
+font-size: 40px;
+font-family: "Anton", sans-serif;
+
+
+
+
+}
+body{
+background-color: rgba(47, 241, 255, 0.411);
+}
+p{  
+    font-family: "Source Code Pro", monospace;
+    font-size: 24px;
+    font: bold;
+    font-style: italic;
+}
